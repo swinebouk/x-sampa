@@ -33,6 +33,6 @@ test(
 test(
 	'Character with modifier with descender /ɪk bən lœy̑k/',
 	testRender,
-	['I', 'k', ' ', 'b', '@', 'n', ' ', 'l', 'œ', 'y', '_^', 'k'],
+	['I', 'k', ' ', 'b', '@', 'n', ' ', 'l', '9', 'y', '_^', 'k'],
 	'ɪk bən lœy̑k'
 );
