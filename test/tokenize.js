@@ -1,5 +1,5 @@
 import test from 'ava';
-import tokenize from '../tokenize';
+import tokenize from '../lib/tokenize';
 
 function testTokenizer(t, input, output) {
 	t.deepEqual(tokenize(input), output);

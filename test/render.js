@@ -1,5 +1,5 @@
 import test from 'ava';
-import render from '../render';
+import render from '../lib/render';
 
 function testRender(t, input, output) {
 	t.deepEqual(render(input), output);
