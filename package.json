@@ -11,5 +11,6 @@
     "ava": "^0.25.0",
     "xo": "^0.23.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "version": "0.1.0"
 }
