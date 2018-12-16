@@ -1,4 +1,4 @@
-# xsampa
+# x-sampa
 
 Transforms strings from [X-Sampa](https://en.wikipedia.org/wiki/X-SAMPA) to [IPA (international phonetic alphabet)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 
