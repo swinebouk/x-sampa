@@ -1,0 +1,511 @@
+[
+  {
+    "x-sampa": "a",
+    "ipa": "a"
+  },
+  {
+    "x-sampa": "b",
+    "ipa": "b"
+  },
+  {
+    "x-sampa": "b_<",
+    "ipa": "ɓ"
+  },
+  {
+    "x-sampa": "c",
+    "ipa": "c"
+  },
+  {
+    "x-sampa": "d",
+    "ipa": "d"
+  },
+  {
+    "x-sampa": "d`",
+    "ipa": "ɖ"
+  },
+  {
+    "x-sampa": "d_<",
+    "ipa": "ɗ"
+  },
+  {
+    "x-sampa": "e",
+    "ipa": "e"
+  },
+  {
+    "x-sampa": "f",
+    "ipa": "f"
+  },
+  {
+    "x-sampa": "g",
+    "ipa": "ɡ"
+  },
+  {
+    "x-sampa": "g_<",
+    "ipa": "ɠ"
+  },
+  {
+    "x-sampa": "h",
+    "ipa": "h"
+  },
+  {
+    "x-sampa": "h\\",
+    "ipa": "ɦ"
+  },
+  {
+    "x-sampa": "i",
+    "ipa": "i"
+  },
+  {
+    "x-sampa": "j",
+    "ipa": "j"
+  },
+  {
+    "x-sampa": "j\\",
+    "ipa": "ʝ"
+  },
+  {
+    "x-sampa": "k",
+    "ipa": "k"
+  },
+  {
+    "x-sampa": "l",
+    "ipa": "l"
+  },
+  {
+    "x-sampa": "l`",
+    "ipa": "ɭ"
+  },
+  {
+    "x-sampa": "l\\",
+    "ipa": "ɺ"
+  },
+  {
+    "x-sampa": "m",
+    "ipa": "m"
+  },
+  {
+    "x-sampa": "n",
+    "ipa": "n"
+  },
+  {
+    "x-sampa": "n`",
+    "ipa": "ɳ"
+  },
+  {
+    "x-sampa": "o",
+    "ipa": "o"
+  },
+  {
+    "x-sampa": "p",
+    "ipa": "p"
+  },
+  {
+    "x-sampa": "p\\",
+    "ipa": "ɸ"
+  },
+  {
+    "x-sampa": "q",
+    "ipa": "q"
+  },
+  {
+    "x-sampa": "r",
+    "ipa": "r"
+  },
+  {
+    "x-sampa": "r`",
+    "ipa": "ɽ"
+  },
+  {
+    "x-sampa": "r\\",
+    "ipa": "ɹ"
+  },
+  {
+    "x-sampa": "r\\`",
+    "ipa": "ɻ"
+  },
+  {
+    "x-sampa": "s",
+    "ipa": "s"
+  },
+  {
+    "x-sampa": "s`",
+    "ipa": "ʂ"
+  },
+  {
+    "x-sampa": "s\\",
+    "ipa": "ɕ"
+  },
+  {
+    "x-sampa": "t",
+    "ipa": "t"
+  },
+  {
+    "x-sampa": "t`",
+    "ipa": "ʈ"
+  },
+  {
+    "x-sampa": "u",
+    "ipa": "u"
+  },
+  {
+    "x-sampa": "v",
+    "ipa": "v"
+  },
+  {
+    "x-sampa": "v\\",
+    "ipa": "ʋ"
+  },
+  {
+    "x-sampa": "w",
+    "ipa": "w"
+  },
+  {
+    "x-sampa": "x",
+    "ipa": "x"
+  },
+  {
+    "x-sampa": "x\\",
+    "ipa": "ɧ"
+  },
+  {
+    "x-sampa": "y",
+    "ipa": "y"
+  },
+  {
+    "x-sampa": "z",
+    "ipa": "z"
+  },
+  {
+    "x-sampa": "z`",
+    "ipa": "ʐ"
+  },
+  {
+    "x-sampa": "z\\",
+    "ipa": "ʑ"
+  },
+  {
+    "x-sampa": "A",
+    "ipa": "ɑ"
+  },
+  {
+    "x-sampa": "B",
+    "ipa": "β"
+  },
+  {
+    "x-sampa": "B\\",
+    "ipa": "ʙ"
+  },
+  {
+    "x-sampa": "C",
+    "ipa": "ç"
+  },
+  {
+    "x-sampa": "D",
+    "ipa": "ð"
+  },
+  {
+    "x-sampa": "E",
+    "ipa": "ɛ"
+  },
+  {
+    "x-sampa": "F",
+    "ipa": "ɱ"
+  },
+  {
+    "x-sampa": "G",
+    "ipa": "ɣ"
+  },
+  {
+    "x-sampa": "G\\",
+    "ipa": "ɢ"
+  },
+  {
+    "x-sampa": "G\\_<",
+    "ipa": "ʛ"
+  },
+  {
+    "x-sampa": "H",
+    "ipa": "ɥ"
+  },
+  {
+    "x-sampa": "H\\",
+    "ipa": "ʜ"
+  },
+  {
+    "x-sampa": "I",
+    "ipa": "ɪ"
+  },
+  {
+    "x-sampa": "I\\",
+    "ipa": "ɪ̈"
+  },
+  {
+    "x-sampa": "J",
+    "ipa": "ɲ"
+  },
+  {
+    "x-sampa": "J\\",
+    "ipa": "ɟ"
+  },
+  {
+    "x-sampa": "J\\_<",
+    "ipa": "ʄ"
+  },
+  {
+    "x-sampa": "K",
+    "ipa": "ɬ"
+  },
+  {
+    "x-sampa": "K\\",
+    "ipa": "ɮ"
+  },
+  {
+    "x-sampa": "L",
+    "ipa": "ʎ"
+  },
+  {
+    "x-sampa": "L\\",
+    "ipa": "ʟ"
+  },
+  {
+    "x-sampa": "M",
+    "ipa": "ɯ"
+  },
+  {
+    "x-sampa": "M\\",
+    "ipa": "ɰ"
+  },
+  {
+    "x-sampa": "N",
+    "ipa": "ŋ"
+  },
+  {
+    "x-sampa": "N\\",
+    "ipa": "ɴ"
+  },
+  {
+    "x-sampa": "O",
+    "ipa": "ɔ"
+  },
+  {
+    "x-sampa": "O\\",
+    "ipa": "ʘ"
+  },
+  {
+    "x-sampa": "v\\",
+    "ipa": "ʋ"
+  },
+  {
+    "x-sampa": "Q",
+    "ipa": "ɒ"
+  },
+  {
+    "x-sampa": "R",
+    "ipa": "ʁ"
+  },
+  {
+    "x-sampa": "R\\",
+    "ipa": "ʀ"
+  },
+  {
+    "x-sampa": "S",
+    "ipa": "ʃ"
+  },
+  {
+    "x-sampa": "T",
+    "ipa": "θ"
+  },
+  {
+    "x-sampa": "U",
+    "ipa": "ʊ"
+  },
+  {
+    "x-sampa": "U\\",
+    "ipa": "ʊ̈"
+  },
+  {
+    "x-sampa": "V",
+    "ipa": "ʌ"
+  },
+  {
+    "x-sampa": "W",
+    "ipa": "ʍ"
+  },
+  {
+    "x-sampa": "X",
+    "ipa": "χ"
+  },
+  {
+    "x-sampa": "X\\",
+    "ipa": "ħ"
+  },
+  {
+    "x-sampa": "Y",
+    "ipa": "ʏ"
+  },
+  {
+    "x-sampa": "Z",
+    "ipa": "ʒ"
+  },
+  {
+    "x-sampa": ".",
+    "ipa": "."
+  },
+  {
+    "x-sampa": "\"",
+    "ipa": "ˈ"
+  },
+  {
+    "x-sampa": "%",
+    "ipa": "ˌ"
+  },
+  {
+    "x-sampa": "'",
+    "ipa": "ʲ"
+  },
+  {
+    "x-sampa": "_j",
+    "ipa": "ʲ"
+  },
+  {
+    "x-sampa": ":",
+    "ipa": "ː"
+  },
+  {
+    "x-sampa": ":\\",
+    "ipa": "ˑ"
+  },
+  {
+    "x-sampa": "@",
+    "ipa": "ə"
+  },
+  {
+    "x-sampa": "@\\",
+    "ipa": "ɘ"
+  },
+  {
+    "x-sampa": "{",
+    "ipa": "æ"
+  },
+  {
+    "x-sampa": "}",
+    "ipa": "ʉ"
+  },
+  {
+    "x-sampa": "1",
+    "ipa": "ɨ"
+  },
+  {
+    "x-sampa": "2",
+    "ipa": "ø"
+  },
+  {
+    "x-sampa": "3",
+    "ipa": "ɜ"
+  },
+  {
+    "x-sampa": "3\\",
+    "ipa": "ɞ"
+  },
+  {
+    "x-sampa": "4",
+    "ipa": "ɾ"
+  },
+  {
+    "x-sampa": "5",
+    "ipa": "ɫ"
+  },
+  {
+    "x-sampa": "6",
+    "ipa": "ɐ"
+  },
+  {
+    "x-sampa": "7",
+    "ipa": "ɤ"
+  },
+  {
+    "x-sampa": "8",
+    "ipa": "ɵ"
+  },
+  {
+    "x-sampa": "9",
+    "ipa": "œ"
+  },
+  {
+    "x-sampa": "&",
+    "ipa": "ɶ"
+  },
+  {
+    "x-sampa": "?",
+    "ipa": "ʔ"
+  },
+  {
+    "x-sampa": "?\\",
+    "ipa": "ʕ"
+  },
+  {
+    "x-sampa": "<\\",
+    "ipa": "ʢ"
+  },
+  {
+    "x-sampa": ">\\",
+    "ipa": "ʡ"
+  },
+  {
+    "x-sampa": "^",
+    "ipa": "ꜛ"
+  },
+  {
+    "x-sampa": "!",
+    "ipa": "ꜜ"
+  },
+  {
+    "x-sampa": "!\\",
+    "ipa": "ǃ"
+  },
+  {
+    "x-sampa": "|",
+    "ipa": "|"
+  },
+  {
+    "x-sampa": "|\\",
+    "ipa": "ǀ"
+  },
+  {
+    "x-sampa": "||",
+    "ipa": "‖"
+  },
+  {
+    "x-sampa": "|\\|\\",
+    "ipa": "ǁ"
+  },
+  {
+    "x-sampa": "=\\",
+    "ipa": "ǂ"
+  },
+  {
+    "x-sampa": "-\\",
+    "ipa": "‿"
+  },
+  {
+    "x-sampa": "-\\",
+    "ipa": "‿"
+  },
+  {
+    "x-sampa": "@`",
+    "ipa": "ɚ",
+    "comment": "R-Coloured Schwa"
+  },
+  {
+    "x-sampa": "3`",
+    "ipa": "ɝ"
+  },
+  {
+    "x-sampa": "=",
+    "ipa": "◌̩"
+  },
+  {
+    "x-sampa": "_^",
+    "ipa": "◌̯"
+  }
+]
