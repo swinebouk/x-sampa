@@ -1,0 +1,39 @@
+[
+  {
+    "xSampa": "~",
+    "ipa": "\u0303",
+    "comment": "Nasalised"
+  },
+  {
+    "xSampa": "=",
+    "ipa": "\u0329",
+    "ipaAbove": "\u030D",
+    "comment": "Syllabic"
+  },
+  {
+    "xSampa": "_^",
+    "ipa": "\u032F",
+    "ipaAbove": "\u0311",
+    "comment": "Non-syllabic"
+  },
+  {
+    "xSampa": "_}",
+    "ipa": "\u031A",
+    "comment": "Unreleased stop"
+  },
+  {
+    "xSampa": "_h",
+    "ipa": "ʰ",
+    "comment": "Aspirated stop"
+  },
+  {
+    "xSampa": "_n",
+    "ipa": "ⁿ",
+    "comment": "Nasalised release"
+  },
+  {
+    "xSampa": "_l",
+    "ipa": "ˡ",
+    "comment": "Lateral release"
+  }
+]

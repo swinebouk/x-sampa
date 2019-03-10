@@ -1,511 +1,499 @@
 [
   {
-    "x-sampa": "a",
+    "xSampa": "a",
     "ipa": "a"
   },
   {
-    "x-sampa": "b",
+    "xSampa": "b",
     "ipa": "b"
   },
   {
-    "x-sampa": "b_<",
+    "xSampa": "b_<",
     "ipa": "ɓ"
   },
   {
-    "x-sampa": "c",
+    "xSampa": "c",
     "ipa": "c"
   },
   {
-    "x-sampa": "d",
+    "xSampa": "d",
     "ipa": "d"
   },
   {
-    "x-sampa": "d`",
+    "xSampa": "d`",
     "ipa": "ɖ"
   },
   {
-    "x-sampa": "d_<",
+    "xSampa": "d_<",
     "ipa": "ɗ"
   },
   {
-    "x-sampa": "e",
+    "xSampa": "e",
     "ipa": "e"
   },
   {
-    "x-sampa": "f",
+    "xSampa": "f",
     "ipa": "f"
   },
   {
-    "x-sampa": "g",
+    "xSampa": "g",
     "ipa": "ɡ"
   },
   {
-    "x-sampa": "g_<",
+    "xSampa": "g_<",
     "ipa": "ɠ"
   },
   {
-    "x-sampa": "h",
+    "xSampa": "h",
     "ipa": "h"
   },
   {
-    "x-sampa": "h\\",
+    "xSampa": "h\\",
     "ipa": "ɦ"
   },
   {
-    "x-sampa": "i",
+    "xSampa": "i",
     "ipa": "i"
   },
   {
-    "x-sampa": "j",
+    "xSampa": "j",
     "ipa": "j"
   },
   {
-    "x-sampa": "j\\",
+    "xSampa": "j\\",
     "ipa": "ʝ"
   },
   {
-    "x-sampa": "k",
+    "xSampa": "k",
     "ipa": "k"
   },
   {
-    "x-sampa": "l",
+    "xSampa": "l",
     "ipa": "l"
   },
   {
-    "x-sampa": "l`",
+    "xSampa": "l`",
     "ipa": "ɭ"
   },
   {
-    "x-sampa": "l\\",
+    "xSampa": "l\\",
     "ipa": "ɺ"
   },
   {
-    "x-sampa": "m",
+    "xSampa": "m",
     "ipa": "m"
   },
   {
-    "x-sampa": "n",
+    "xSampa": "n",
     "ipa": "n"
   },
   {
-    "x-sampa": "n`",
+    "xSampa": "n`",
     "ipa": "ɳ"
   },
   {
-    "x-sampa": "o",
+    "xSampa": "o",
     "ipa": "o"
   },
   {
-    "x-sampa": "p",
+    "xSampa": "p",
     "ipa": "p"
   },
   {
-    "x-sampa": "p\\",
+    "xSampa": "p\\",
     "ipa": "ɸ"
   },
   {
-    "x-sampa": "q",
+    "xSampa": "q",
     "ipa": "q"
   },
   {
-    "x-sampa": "r",
+    "xSampa": "r",
     "ipa": "r"
   },
   {
-    "x-sampa": "r`",
+    "xSampa": "r`",
     "ipa": "ɽ"
   },
   {
-    "x-sampa": "r\\",
+    "xSampa": "r\\",
     "ipa": "ɹ"
   },
   {
-    "x-sampa": "r\\`",
+    "xSampa": "r\\`",
     "ipa": "ɻ"
   },
   {
-    "x-sampa": "s",
+    "xSampa": "s",
     "ipa": "s"
   },
   {
-    "x-sampa": "s`",
+    "xSampa": "s`",
     "ipa": "ʂ"
   },
   {
-    "x-sampa": "s\\",
+    "xSampa": "s\\",
     "ipa": "ɕ"
   },
   {
-    "x-sampa": "t",
+    "xSampa": "t",
     "ipa": "t"
   },
   {
-    "x-sampa": "t`",
+    "xSampa": "t`",
     "ipa": "ʈ"
   },
   {
-    "x-sampa": "u",
+    "xSampa": "u",
     "ipa": "u"
   },
   {
-    "x-sampa": "v",
+    "xSampa": "v",
     "ipa": "v"
   },
   {
-    "x-sampa": "v\\",
+    "xSampa": "v\\",
     "ipa": "ʋ"
   },
   {
-    "x-sampa": "w",
+    "xSampa": "w",
     "ipa": "w"
   },
   {
-    "x-sampa": "x",
+    "xSampa": "x",
     "ipa": "x"
   },
   {
-    "x-sampa": "x\\",
+    "xSampa": "x\\",
     "ipa": "ɧ"
   },
   {
-    "x-sampa": "y",
+    "xSampa": "y",
     "ipa": "y"
   },
   {
-    "x-sampa": "z",
+    "xSampa": "z",
     "ipa": "z"
   },
   {
-    "x-sampa": "z`",
+    "xSampa": "z`",
     "ipa": "ʐ"
   },
   {
-    "x-sampa": "z\\",
+    "xSampa": "z\\",
     "ipa": "ʑ"
   },
   {
-    "x-sampa": "A",
+    "xSampa": "A",
     "ipa": "ɑ"
   },
   {
-    "x-sampa": "B",
+    "xSampa": "B",
     "ipa": "β"
   },
   {
-    "x-sampa": "B\\",
+    "xSampa": "B\\",
     "ipa": "ʙ"
   },
   {
-    "x-sampa": "C",
+    "xSampa": "C",
     "ipa": "ç"
   },
   {
-    "x-sampa": "D",
+    "xSampa": "D",
     "ipa": "ð"
   },
   {
-    "x-sampa": "E",
+    "xSampa": "E",
     "ipa": "ɛ"
   },
   {
-    "x-sampa": "F",
+    "xSampa": "F",
     "ipa": "ɱ"
   },
   {
-    "x-sampa": "G",
+    "xSampa": "G",
     "ipa": "ɣ"
   },
   {
-    "x-sampa": "G\\",
+    "xSampa": "G\\",
     "ipa": "ɢ"
   },
   {
-    "x-sampa": "G\\_<",
+    "xSampa": "G\\_<",
     "ipa": "ʛ"
   },
   {
-    "x-sampa": "H",
+    "xSampa": "H",
     "ipa": "ɥ"
   },
   {
-    "x-sampa": "H\\",
+    "xSampa": "H\\",
     "ipa": "ʜ"
   },
   {
-    "x-sampa": "I",
+    "xSampa": "I",
     "ipa": "ɪ"
   },
   {
-    "x-sampa": "I\\",
+    "xSampa": "I\\",
     "ipa": "ɪ̈"
   },
   {
-    "x-sampa": "J",
+    "xSampa": "J",
     "ipa": "ɲ"
   },
   {
-    "x-sampa": "J\\",
+    "xSampa": "J\\",
     "ipa": "ɟ"
   },
   {
-    "x-sampa": "J\\_<",
+    "xSampa": "J\\_<",
     "ipa": "ʄ"
   },
   {
-    "x-sampa": "K",
+    "xSampa": "K",
     "ipa": "ɬ"
   },
   {
-    "x-sampa": "K\\",
+    "xSampa": "K\\",
     "ipa": "ɮ"
   },
   {
-    "x-sampa": "L",
+    "xSampa": "L",
     "ipa": "ʎ"
   },
   {
-    "x-sampa": "L\\",
+    "xSampa": "L\\",
     "ipa": "ʟ"
   },
   {
-    "x-sampa": "M",
+    "xSampa": "M",
     "ipa": "ɯ"
   },
   {
-    "x-sampa": "M\\",
+    "xSampa": "M\\",
     "ipa": "ɰ"
   },
   {
-    "x-sampa": "N",
+    "xSampa": "N",
     "ipa": "ŋ"
   },
   {
-    "x-sampa": "N\\",
+    "xSampa": "N\\",
     "ipa": "ɴ"
   },
   {
-    "x-sampa": "O",
+    "xSampa": "O",
     "ipa": "ɔ"
   },
   {
-    "x-sampa": "O\\",
+    "xSampa": "O\\",
     "ipa": "ʘ"
   },
   {
-    "x-sampa": "v\\",
+    "xSampa": "v\\",
     "ipa": "ʋ"
   },
   {
-    "x-sampa": "Q",
+    "xSampa": "Q",
     "ipa": "ɒ"
   },
   {
-    "x-sampa": "R",
+    "xSampa": "R",
     "ipa": "ʁ"
   },
   {
-    "x-sampa": "R\\",
+    "xSampa": "R\\",
     "ipa": "ʀ"
   },
   {
-    "x-sampa": "S",
+    "xSampa": "S",
     "ipa": "ʃ"
   },
   {
-    "x-sampa": "T",
+    "xSampa": "T",
     "ipa": "θ"
   },
   {
-    "x-sampa": "U",
+    "xSampa": "U",
     "ipa": "ʊ"
   },
   {
-    "x-sampa": "U\\",
+    "xSampa": "U\\",
     "ipa": "ʊ̈"
   },
   {
-    "x-sampa": "V",
+    "xSampa": "V",
     "ipa": "ʌ"
   },
   {
-    "x-sampa": "W",
+    "xSampa": "W",
     "ipa": "ʍ"
   },
   {
-    "x-sampa": "X",
+    "xSampa": "X",
     "ipa": "χ"
   },
   {
-    "x-sampa": "X\\",
+    "xSampa": "X\\",
     "ipa": "ħ"
   },
   {
-    "x-sampa": "Y",
+    "xSampa": "Y",
     "ipa": "ʏ"
   },
   {
-    "x-sampa": "Z",
+    "xSampa": "Z",
     "ipa": "ʒ"
   },
   {
-    "x-sampa": ".",
+    "xSampa": ".",
     "ipa": "."
   },
   {
-    "x-sampa": "\"",
+    "xSampa": "\"",
     "ipa": "ˈ"
   },
   {
-    "x-sampa": "%",
+    "xSampa": "%",
     "ipa": "ˌ"
   },
   {
-    "x-sampa": "'",
+    "xSampa": "'",
     "ipa": "ʲ"
   },
   {
-    "x-sampa": "_j",
+    "xSampa": "_j",
     "ipa": "ʲ"
   },
   {
-    "x-sampa": ":",
+    "xSampa": ":",
     "ipa": "ː"
   },
   {
-    "x-sampa": ":\\",
+    "xSampa": ":\\",
     "ipa": "ˑ"
   },
   {
-    "x-sampa": "@",
+    "xSampa": "@",
     "ipa": "ə"
   },
   {
-    "x-sampa": "@\\",
+    "xSampa": "@\\",
     "ipa": "ɘ"
   },
   {
-    "x-sampa": "{",
+    "xSampa": "{",
     "ipa": "æ"
   },
   {
-    "x-sampa": "}",
+    "xSampa": "}",
     "ipa": "ʉ"
   },
   {
-    "x-sampa": "1",
+    "xSampa": "1",
     "ipa": "ɨ"
   },
   {
-    "x-sampa": "2",
+    "xSampa": "2",
     "ipa": "ø"
   },
   {
-    "x-sampa": "3",
+    "xSampa": "3",
     "ipa": "ɜ"
   },
   {
-    "x-sampa": "3\\",
+    "xSampa": "3\\",
     "ipa": "ɞ"
   },
   {
-    "x-sampa": "4",
+    "xSampa": "4",
     "ipa": "ɾ"
   },
   {
-    "x-sampa": "5",
+    "xSampa": "5",
     "ipa": "ɫ"
   },
   {
-    "x-sampa": "6",
+    "xSampa": "6",
     "ipa": "ɐ"
   },
   {
-    "x-sampa": "7",
+    "xSampa": "7",
     "ipa": "ɤ"
   },
   {
-    "x-sampa": "8",
+    "xSampa": "8",
     "ipa": "ɵ"
   },
   {
-    "x-sampa": "9",
+    "xSampa": "9",
     "ipa": "œ"
   },
   {
-    "x-sampa": "&",
+    "xSampa": "&",
     "ipa": "ɶ"
   },
   {
-    "x-sampa": "?",
+    "xSampa": "?",
     "ipa": "ʔ"
   },
   {
-    "x-sampa": "?\\",
+    "xSampa": "?\\",
     "ipa": "ʕ"
   },
   {
-    "x-sampa": "<\\",
+    "xSampa": "<\\",
     "ipa": "ʢ"
   },
   {
-    "x-sampa": ">\\",
+    "xSampa": ">\\",
     "ipa": "ʡ"
   },
   {
-    "x-sampa": "^",
+    "xSampa": "^",
     "ipa": "ꜛ"
   },
   {
-    "x-sampa": "!",
+    "xSampa": "!",
     "ipa": "ꜜ"
   },
   {
-    "x-sampa": "!\\",
+    "xSampa": "!\\",
     "ipa": "ǃ"
   },
   {
-    "x-sampa": "|",
+    "xSampa": "|",
     "ipa": "|"
   },
   {
-    "x-sampa": "|\\",
+    "xSampa": "|\\",
     "ipa": "ǀ"
   },
   {
-    "x-sampa": "||",
+    "xSampa": "||",
     "ipa": "‖"
   },
   {
-    "x-sampa": "|\\|\\",
+    "xSampa": "|\\|\\",
     "ipa": "ǁ"
   },
   {
-    "x-sampa": "=\\",
+    "xSampa": "=\\",
     "ipa": "ǂ"
   },
   {
-    "x-sampa": "-\\",
+    "xSampa": "-\\",
     "ipa": "‿"
   },
   {
-    "x-sampa": "-\\",
-    "ipa": "‿"
-  },
-  {
-    "x-sampa": "@`",
+    "xSampa": "@`",
     "ipa": "ɚ",
     "comment": "R-Coloured Schwa"
   },
   {
-    "x-sampa": "3`",
+    "xSampa": "3`",
     "ipa": "ɝ"
-  },
-  {
-    "x-sampa": "=",
-    "ipa": "◌̩"
-  },
-  {
-    "x-sampa": "_^",
-    "ipa": "◌̯"
   }
 ]
