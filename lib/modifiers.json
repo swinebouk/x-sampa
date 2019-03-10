@@ -35,5 +35,21 @@
     "xSampa": "_l",
     "ipa": "ˡ",
     "comment": "Lateral release"
+  },
+  {
+    "xSampa": "_0",
+    "ipa": "\u0325",
+    "ipaAbove": "\u030A",
+    "comment": "Voiceless"
+  },
+  {
+    "xSampa": "_v",
+    "ipa": "\u032C",
+    "comment": "Voiced"
+  },
+  {
+    "xSampa": "_t",
+    "ipa": "\u0324",
+    "comment": "Breathy voice"
   }
 ]

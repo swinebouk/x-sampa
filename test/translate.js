@@ -28,7 +28,7 @@ test('Non-syllabic', testTranslate, 'I_^y_^', 'ɪ̯y̑');
 
 // Consonant release
 
-test('Unreleased stop', testTranslate, 'p_}', 'p̚')
+test('Unreleased stop', testTranslate, 'p_}', 'p̚');
 
 test('Aspirated stop', testTranslate, 'p_h', 'pʰ');
 
@@ -37,6 +37,12 @@ test('Nasalised release', testTranslate, 'p_n', 'pⁿ');
 test('Lateral release', testTranslate, 'd_l', 'dˡ');
 
 // Voicing
+
+test('Voiceless', testTranslate, 'd_0 N_0', 'd̥ ŋ̊');
+
+test('Voiced', testTranslate, 's_v', 's̬');
+
+test('Breathy voice', testTranslate, 'b_t', 'b̤');
 
 // Other
 
